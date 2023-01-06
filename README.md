@@ -8,6 +8,8 @@ Please read this document carefully before using the software.
 when you open the software it shows a command line, that displays the words "Hello World!".
 This is super useful, as you can simply adjust the software to display a different text.
 
+<img src="https://github.com/lucasplank/Hello-World/blob/main/images/screenshot.PNG" height="450px">
+
 ## How to use
 
 To use the software, you only need to download the HelloWorld.bat and run it on a Windows Computer.
